@@ -32,6 +32,6 @@ Churls for static idler placements
   
 ## Assembly
 
-![Hardware Front](Images\Hardware_Front.png)
+![Hardware Front](./Images/Hardware_Front.png)
 
-![Hardware Rear](Images\Hardware_Rear.png)
+![Hardware Rear](./Images/Hardware_Rear.png)
