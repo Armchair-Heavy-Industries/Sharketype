@@ -30,4 +30,8 @@ Churls for static idler placements
 
 * Xmm Capricorn PTFE tube between extruder and hotend
   
+## Assembly
 
+![Hardware Front](./Images/Hardware_Front.png)
+
+![Hardware Rear](./Images/Hardware_Rear.png)
