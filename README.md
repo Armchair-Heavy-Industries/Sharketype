@@ -3,10 +3,10 @@
 This is the temporary description for Sharketype: a BMG based spur gear extruder designed to fit natively on the Archetype toolhead ecosystem (Excluding Breakneck)
 It is derived from Kayosmaker's Sharkfin, which itself is a derivative of Sailfin.
 Credit to:
-Kayosmaker 
-Derpimus 
-Churls for static idler placements
-[EXPAND] 
+Kayosmaker  
+Derpimus   
+Churls for static idler placements  
+All the beta testers on Armchair Discord (AlkaMite, BeccaK, Guiliano, Imforpeace, jeremytodd1, Machinza, Nicket, OREHON, SumSnowMan, takti, theotherjimmy, and whodidyouthink)  
 
 ## Hardware
 
